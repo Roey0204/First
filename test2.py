@@ -1,1 +1,1 @@
-print("yes yes")
+print("win liao")
